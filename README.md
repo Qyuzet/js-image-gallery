@@ -17,6 +17,9 @@
 This repository contains a simple and elegant image gallery implemented with JavaScript, HTML, and CSS. The gallery allows users to scroll through images with smooth transitions and hover effects.
 [TRY NOW!](https://qyuzet.github.io/js-image-gallery/)
 
+![image](https://github.com/user-attachments/assets/99da7f4e-26e0-4fa5-9c5e-897d66edbe37)
+
+
 ## Features
 
 - **Smooth Scrolling:** Users can scroll through the gallery horizontally using the mouse wheel or navigation buttons.
